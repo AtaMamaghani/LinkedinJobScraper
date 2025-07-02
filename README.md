@@ -12,8 +12,8 @@ Before running this application, ensure you have the following installed:
 1.  **Clone the repository:**
 
     ```bash
-    git clone <your-repository-url>
-    cd linkedin-job-scraper # Replace with your actual repository folder name
+    git clone https://github.com/AtaMamaghani/LinkedinJobScraper.git
+    cd linkedin-job-scraper 
     ```
 
 2.  **Create a virtual environment (recommended):**
